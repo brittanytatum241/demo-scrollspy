@@ -6,8 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "phuongdh",
+  "author": "brittanytatum241",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brittanytatum241/demo-scrollspy.git"
+  },
+  "homepage": "https://github.com/brittanytatum241/demo-scrollspy.git",
   "dependencies": {
     "app-scrollspy": "^1.0.1"
   }
